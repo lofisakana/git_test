@@ -1,2 +1,3 @@
 Testing.
 Testing commit messages.
+Testing commit messages 2.
